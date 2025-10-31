@@ -6,3 +6,17 @@ __pycache__/
 *.dcm
 *.log
 *.zip
+.env
+.env.local
+.env.*.local
+*.nii
+*.nii.gz
+*.nifti
+*.json
+.DS_Store
+in/
+out/
+SEG/
+files/
+*.tmp
+*.backup
